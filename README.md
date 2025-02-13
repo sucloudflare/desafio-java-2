@@ -44,6 +44,6 @@ public class Contador {
         super("O segundo parâmetro deve ser maior que o primeiro");
     }
 }</code></pre>
-<h2>Autor</h2>
+<h2>Autor do Desafio</h2>
 <p>Gleyson Sampaio</p>
 <p>Acesse <a href="https://www.dio.me" target="_blank">DIO</a> para mais informações.</p>
